@@ -10,3 +10,6 @@ Then, execute below to keep program running in the background:
 ``python3 score_computer.py``
 
 To end scoring, simply kill the program.
+
+## Functions:
+- Unfinished scoring warning
